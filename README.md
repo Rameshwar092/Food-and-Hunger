@@ -81,7 +81,7 @@ The Food and Hunger project is a socially impactful web-based platform that uses
 Built using HTML, CSS, JavaScript, ReactJS, Spring Boot, and Java, the system ensures smooth interaction between the frontend and backend, providing a reliable solution for real-time food donation and distribution.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/RAMESHWAR-g3-dsa-in-java/blob/f3bad9c9f94cb882ef4a7c7fbafbd5970ab22c31/Course%20report/Sure%20Trust%20project%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Rameshwar092/Food-and-Hunger/blob/main/Sure%20Trust%20project%20report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
