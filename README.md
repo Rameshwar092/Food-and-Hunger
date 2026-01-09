@@ -42,7 +42,8 @@
 
 <p><strong>Trainer Name:</strong> Mr. Karthik </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> 
+Software tester at jio platforms limited</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
